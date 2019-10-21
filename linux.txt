@@ -1,3 +1,5 @@
+
 Modifying this file in rogue branch before committing it
 Now doing the same in master branch
 MASTER
+this is a Rogue version of linux.txt
